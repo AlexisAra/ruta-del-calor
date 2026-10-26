@@ -1,0 +1,5 @@
+data/comunas.json
+comunas_final.zip
+*.zip
+__pycache__/
+.venv/
